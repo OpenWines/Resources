@@ -80,7 +80,9 @@ Domaines liée à ce domaine (exploitant possédant plusieurs domaines)
 Mode de culture
 
 - "bio"
+- biodynamie
 - "culture raisonnée"
+
 
 Mode de vinification
 

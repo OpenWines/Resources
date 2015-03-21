@@ -22,8 +22,16 @@ Type de résultats:
 - vignerons
 - AOC (par commune)
 - parcelles cultivées (déclarées en vigne)
-- [7 appellations AOC du Pays Nantais](https://fr.wikipedia.org/wiki/Vignoble_de_la_vall%C3%A9e_de_la_Loire#Vignobles_nantais)
+- [7 appellations AOC du Pays Nantais](https://fr.wikipedia.org/wiki/Vignoble_de_la_vall%C3%A9e_de_la_Loire#Vignobles_nantais) :
 
+- Le coteaux-d'ancenis (AOVDQS)
+- Le gros-plant-du-pays-nantais (AOVDQS)
+- Le muscadet (AOC)
+- Le muscadet-sèvre-et-maine (AOC)
+- Le muscadet-coteaux-de-la-loire (AOC)
+- Le muscadet-côtes-de-grandlieu (AOC)
+
+hors liste : Le fiefs-vendéens
 
 Fiche Vigneron :
 

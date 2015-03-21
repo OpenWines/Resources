@@ -53,15 +53,39 @@ Production :
 - Cépages mis en oeuvres
 - dénominations/appellations (AOC, etc.) de rattachement
 - liste des vins commercialisés
+- fourchette de prix des vins vendus
+
+Pour chaque produit
+- aromes
+- saveurs
+- prix et distinctions
+- vendu par (lots/cartons de 6)
+- prix à l'unité
+
+Réseau du vigneron (logo)
+
+- "bienvenue à la ferme"
+- "vigneron indépendant"
 
 Services
 
--  visite du domaine,
--  dégustation
+-  visite du domaine : date et horaires de visites
+-  groupes acceptés
+-  dégustation gratuite
 -  vente sur place,
 -  animations,
 -  "camping à la ferme"
+-  ateliers pratique (taille de la vigne)
+-  langues parlées
+-  Accueil de personnes à mobilité réduite
 
+
+Faut-il afficher ceci ? :
+
+- "ce vigneron peut être rencontré sur un salon/foire"
+- siret
+- capital
+- superficie cultivée
 
 
 

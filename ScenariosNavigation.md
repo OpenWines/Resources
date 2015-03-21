@@ -24,7 +24,7 @@ Type de résultats:
 - parcelles cultivées (déclarées en vigne)
 - [7 appellations AOC du Pays Nantais](https://fr.wikipedia.org/wiki/Vignoble_de_la_vall%C3%A9e_de_la_Loire#Vignobles_nantais) :
 
-Les 7 AOCs:
+Les AOCs:
 
 - Le coteaux-d'ancenis (AOVDQS)
 - Le gros-plant-du-pays-nantais (AOVDQS)
@@ -32,6 +32,9 @@ Les 7 AOCs:
 - Le muscadet-sèvre-et-maine (AOC)
 - Le muscadet-coteaux-de-la-loire (AOC)
 - Le muscadet-côtes-de-grandlieu (AOC)
+
+
+Source : https://fr.wikipedia.org/wiki/Liste_des_vins_AOC_fran%C3%A7ais
 
 hors liste : Le fiefs-vendéens
 

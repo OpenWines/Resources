@@ -74,7 +74,7 @@ Réseau du vigneron (logo)
 - "bienvenue à la ferme"
 - "vigneron indépendant"
 - "Gîte de France"
-- 
+
 Domaines liée à ce domaine (exploitant possédant plusieurs domaines)
 
 Mode de culture

@@ -48,6 +48,10 @@ Identité :
 - coordonnées postales, gécodables en lat/long sur une carte de localisation
 - URL, email, compte de réseaux sociaux du vigneron
 
+Descrition (présentation par le vigneron)
+
+Articles de presse, revue de presse
+
 Production : 
 
 - Cépages mis en oeuvres
@@ -56,16 +60,27 @@ Production :
 - fourchette de prix des vins vendus
 
 Pour chaque produit
+- photo du produit
+- code EAN de la bouteille
 - aromes
 - saveurs
 - prix et distinctions
 - vendu par (lots/cartons de 6)
 - prix à l'unité
+- disponible en millésimes (liste d'années)
 
 Réseau du vigneron (logo)
 
 - "bienvenue à la ferme"
 - "vigneron indépendant"
+- "Gîte de France"
+- 
+Domaines liée à ce domaine (exploitant possédant plusieurs domaines)
+
+Mode de culture
+
+- "bio"
+- "culture raisonnée"
 
 Services
 

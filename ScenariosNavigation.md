@@ -94,6 +94,11 @@ Services
 -  langues parlées
 -  Accueil de personnes à mobilité réduite
 
+Carte de la Route des Vins
+
+- http://www.enpaysdelaloire.com/Idees-de-destinations/Les-circuits/La-route-touristique-des-vignobles-en-Val-de-Loire
+- http://www.winechictravel.fr/route-vin-vallee-de-la-loire/angers-nantes
+- http://www.weezigo.com/Route-des-vins_Nantes-44000
 
 Faut-il afficher ceci ? :
 
@@ -102,8 +107,11 @@ Faut-il afficher ceci ? :
 - capital
 - superficie cultivée
 
+## S'autres infos sur le vignoble 
 
-
+- Par soustraction, la production qui n'est pas dans une appellation
+- la production située dans une zone de différentes densités d'habitants/km2
+- carte des cépages 
 
 ## Slides
 

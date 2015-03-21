@@ -42,6 +42,30 @@ hors liste : Le fiefs-vendéens
 
 ## Fiche Vigneron :
 
+Identité :
+
+- nom prénom du vigneron, ou raison sociale
+- coordonnées postales, gécodables en lat/long sur une carte de localisation
+- URL, email, compte de réseaux sociaux du vigneron
+
+Production : 
+
+- Cépages mis en oeuvres
+- dénominations/appellations (AOC, etc.) de rattachement
+- liste des vins commercialisés
+
+Services
+
+-  visite du domaine,
+-  dégustation
+-  vente sur place,
+-  animations,
+-  "camping à la ferme"
+
+
+
+
+
 ## Slides
 
 - 1 : nom du projet, descriptif, jeux de données utilisées

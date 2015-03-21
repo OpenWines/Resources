@@ -48,7 +48,7 @@ Identité :
 - coordonnées postales, gécodables en lat/long sur une carte de localisation
 - URL, email, compte de réseaux sociaux du vigneron
 
-Descrition (présentation par le vigneron)
+Description (présentation par le vigneron)
 
 Articles de presse, revue de presse
 
@@ -75,7 +75,7 @@ Réseau du vigneron (logo)
 - "vigneron indépendant"
 - "Gîte de France"
 
-Domaines liée à ce domaine (exploitant possédant plusieurs domaines)
+Domaines liés à ce domaine (exploitant possédant plusieurs domaines)
 
 Mode de culture
 
@@ -87,7 +87,7 @@ Mode de culture
 Mode de vinification
 
 - vinification traditionnelle
-- vinification vin naturel
+- vinification en vin naturel
 
 Services
 
@@ -114,11 +114,13 @@ Faut-il afficher ceci ? :
 - capital
 - superficie cultivée
 
-## S'autres infos sur le vignoble 
+## D'autres infos sur le vignoble 
 
 - Par soustraction, la production qui n'est pas dans une appellation
 - la production située dans une zone de différentes densités d'habitants/km2
-- carte des cépages 
+- la production située dans une zone de pression immobilière
+- les zones d'action de coopératives promouvant l'installation de nouveaux vignerons
+- carte des cépages utilisés
 
 ## Slides
 

@@ -24,6 +24,8 @@ Type de résultats:
 - parcelles cultivées (déclarées en vigne)
 - [7 appellations AOC du Pays Nantais](https://fr.wikipedia.org/wiki/Vignoble_de_la_vall%C3%A9e_de_la_Loire#Vignobles_nantais) :
 
+Les 7 AOCs:
+
 - Le coteaux-d'ancenis (AOVDQS)
 - Le gros-plant-du-pays-nantais (AOVDQS)
 - Le muscadet (AOC)

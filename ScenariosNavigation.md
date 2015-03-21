@@ -82,6 +82,11 @@ Mode de culture
 - "bio"
 - "culture raisonnée"
 
+Mode de vinification
+
+- vinification traditionnelle
+- vinification vin naturel
+
 Services
 
 -  visite du domaine : date et horaires de visites

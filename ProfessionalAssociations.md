@@ -16,6 +16,7 @@
 - ["Où boire du vin produits près de Nantes"](http://www.lestablesdenantes.fr)
 
 ### Identités à définir
+- [vin-vigne.com](http://www.vin-vigne.com/vignoble/vin-loire.html)
 - [Vignoble-nantais.eu](http://www.vignoble-nantais.eu/index.html)
 
 

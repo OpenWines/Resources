@@ -52,6 +52,11 @@
 - [Stanford's Wine ontology](http://www.daml.org/ontologies/76)
 - [Stanford's Wine ontology detailled explanations](http://www.ksl.stanford.edu/projects/wine/explanation.html#ontology)
 
+
+### BBC
+
+- [BBC's Food ontogoly](http://www.bbc.co.uk/ontologies/fo)
+
 ### W3
 
 - [W3.org's Wine ontology](http://www.w3.org/TR/owl-guide/wine.rdf)

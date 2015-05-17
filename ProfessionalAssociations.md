@@ -10,7 +10,7 @@
 - http://agriculture.e-pro.fr/loire-atlantique/viticulture_c011G_44
 - http://www.mon-vigneron.com/tous-les-domaines-viticoles/region/pays-nantais
 - http://www.annuaire-oenotourisme-loire.fr/activites-oenotourisme/activites-oenotourisme-loire-visites-de-caves-et-vignoble-3.html
-
+- [plantgrape.plantnet-project.org](http://plantgrape.plantnet-project.org/partenaires)
 - ["Où trouver des producteurs et distributeurs biologiques et écologiques dans l'agglomération de Clisson ?"](http://clissonenvert.over-blog.com/pages/Ou_trouver_des_producteurs_et_distributeurs_biologiques_et_ecologiques_dans_lagglomeration_de_Clisson_-1697481.html)
 
 - ["Où boire du vin produits près de Nantes"](http://www.lestablesdenantes.fr)

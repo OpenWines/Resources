@@ -13,6 +13,7 @@
 ## Data models
 
 - [Description des champs de données](http://catalogue.datalocale.fr//storage/f/2013-09-02-100734liste-sites-viticoles-cdt33desc.html) de la [Liste des sites viticoles labellisés Vignobles et Chais en Bordelais](http://catalogue.datalocale.fr/dataset/liste-sites-viticoles-cdt33)
+- [Badge/Award/Achievement](https://github.com/openbadges/openbadges-specification/blob/master/Assertion/latest.md#badgeclass) - [more on this here](https://github.com/openbadges/openbadges-specification/issues/9)
 
 ## Published downloadable data (without licence) on public administration websites
 

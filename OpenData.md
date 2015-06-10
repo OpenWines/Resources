@@ -13,7 +13,9 @@
 ## Data models
 
 - [Description des champs de données](http://catalogue.datalocale.fr//storage/f/2013-09-02-100734liste-sites-viticoles-cdt33desc.html) de la [Liste des sites viticoles labellisés Vignobles et Chais en Bordelais](http://catalogue.datalocale.fr/dataset/liste-sites-viticoles-cdt33)
-- [Badge/Award/Achievement](https://github.com/openbadges/openbadges-specification/blob/master/Assertion/latest.md#badgeclass) - [more on this here](https://github.com/openbadges/openbadges-specification/issues/9)
+- [Badge/Award/Achievement](https://github.com/openbadges/openbadges-specification/blob/master/Assertion/latest.md#badgeclass) - [more on this here](https://github.com/openbadges/openbadges-specification/issues/9) - see also [award](https://schema.org/awards) on Schema.org
+- [wine-related terms](http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL_GLOSSARY&StrNom=CODED2&IntCurrentPage=1&StrLanguageCode=EN&RdoSearch=CONTAIN&TxtSearch=wine&CboTheme=31937629&IsTer=) for EuroStat
+
 
 ## Published downloadable data (without licence) on public administration websites
 

@@ -4,13 +4,16 @@
 
 - [Why use an ontology](http://www.ksl.stanford.edu/projects/wine/explanation.html#why)
 
-## Web sémantique
+## Semantic Web
+
+### Definitions
+
+- [wine-related terms](http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL_GLOSSARY&StrNom=CODED2&IntCurrentPage=1&StrLanguageCode=EN&RdoSearch=CONTAIN&TxtSearch=wine&CboTheme=31937629&IsTer=) for EuroStat
 
 
 ### Ontologies
 
 - "Wine Ontology Tutorial", Natalya F. Noy et Deborah L. McGuinness (Stanford) / ["Développement d’une ontologie (traduction française de la BNF)](http://www.bnf.fr/documents/no-DevOnto.pdf) (BNF)
-
 
 ### Protégé
 

@@ -1,6 +1,6 @@
 # Mind these websites terms & conditions:
 
-- http://api.wine.com/
+- http://api.wine.com/ with a list of [data models](https://api.wine.com/wiki/api-object-dictionary)
 - http://api.snooth.com/
 - [Culture de la vigne (0121Z) en Loire-Atlantique](https://www.google.fr/search?q=site%3Asociete.com+%22Culture+de+la+vigne+(0121Z)%22+%22Loire-Atlantique+(44)%22&oq=site%3Asociete.com+%22Culture+de+la+vigne+(0121Z)%22+%22Loire-Atlantique+(44)%22&aqs=chrome..69i57j69i58.228j0j9&sourceid=chrome&es_sm=119&ie=UTF-8) (societe.com, 859 résultats selon Google)
 - [Culture de la vigne (0121Z) en Loire-Atlantique](https://www.infogreffe.fr/societes/entreprises-departement/loire-atlantique-0121Z-044-1.html) (infogreffe.fr, 810 entreprises) 

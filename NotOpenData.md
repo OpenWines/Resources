@@ -1,5 +1,6 @@
 # Mind these websites terms & conditions:
 
+- [Database of Regional, National and Global Winegrape Bearing Areas by Variety, 2000 and 2010](http://www.adelaide.edu.au/wine-econ/databases/winegrapes/), Adelaïde University
 - http://api.wine.com/ with a list of [data models](https://api.wine.com/wiki/api-object-dictionary)
 - http://api.snooth.com/
 - [Culture de la vigne (0121Z) en Loire-Atlantique](https://www.google.fr/search?q=site%3Asociete.com+%22Culture+de+la+vigne+(0121Z)%22+%22Loire-Atlantique+(44)%22&oq=site%3Asociete.com+%22Culture+de+la+vigne+(0121Z)%22+%22Loire-Atlantique+(44)%22&aqs=chrome..69i57j69i58.228j0j9&sourceid=chrome&es_sm=119&ie=UTF-8) (societe.com, 859 résultats selon Google)

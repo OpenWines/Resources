@@ -9,6 +9,8 @@
 - [Open-data des Douanes Françaises](http://www.douane.gouv.fr/contact-et-assistance/recherche-datadouane?rechercheDD=vin) sur le vin
 - Liste de Cépages : ["grape variety" sur Wikidata](https://www.wikidata.org/w/index.php?title=Special:Search&limit=500&offset=0&profile=default&search=grape+variety)
 - Liste des Vins de Bordeaux en ? open-data [Projet Smart Bordeaux](http://opendata.bordeaux.fr/applications-titre/all?page=1) 
+- [Les aires géographiqies des AOCs](https://www.data.gouv.fr/fr/datasets/aires-geographiques-des-aoc-aop/)
+
 
 ## Data models
 

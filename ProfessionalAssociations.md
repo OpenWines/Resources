@@ -21,3 +21,5 @@
 
 
 https://lite5.framapad.org/p/hackgriculturevin
+
+GS1 about wine (see slides): http://www.gs1.fr/Institutionnel/conferences/Reunion-Filiere-Vitivinicole
